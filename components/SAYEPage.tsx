@@ -1204,4 +1204,3 @@ function SAYEConfigView({ planConfigs, setPlanConfigs }: SAYEConfigViewProps) {
     </div>
   );
 }
-
